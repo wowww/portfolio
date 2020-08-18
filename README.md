@@ -68,9 +68,9 @@
 
 ### 🌏 Browser Support
 
-| <img width="18px" src="https://user-images.githubusercontent.com/1215767/34348387-a2e64588-ea4d-11e7-8267-a43365103afe.png" /> Chrome | <img width="18px" src="https://user-images.githubusercontent.com/1215767/34348590-250b3ca2-ea4f-11e7-9efb-da953359321f.png"> Internet Explorer | Column 3 |<img width="18px" src="https://user-images.githubusercontent.com/1215767/34348380-93e77ae8-ea4d-11e7-8696-9a989ddbbbf5.png" /> Edge | <img width="18px" src="https://user-images.githubusercontent.com/1215767/34348394-a981f892-ea4d-11e7-9156-d128d58386b9.png" /> Safari| <img width="18px" src="https://user-images.githubusercontent.com/1215767/34348383-9e7ed492-ea4d-11e7-910c-03b39d52f496.png" /> Firefox|
-| :--------: | :--------: | :--------: | :--------: | :--------: | :--------: |
-| Yes     | Yes     | 9+     |Yes|Yes |Yes|
+| <img width="18px" src="https://user-images.githubusercontent.com/1215767/34348387-a2e64588-ea4d-11e7-8267-a43365103afe.png" /> Chrome | <img width="18px" src="https://user-images.githubusercontent.com/1215767/34348590-250b3ca2-ea4f-11e7-9efb-da953359321f.png"> Internet Explorer | <img width="18px" src="https://user-images.githubusercontent.com/1215767/34348380-93e77ae8-ea4d-11e7-8696-9a989ddbbbf5.png" /> Edge | <img width="18px" src="https://user-images.githubusercontent.com/1215767/34348394-a981f892-ea4d-11e7-9156-d128d58386b9.png" /> Safari| <img width="18px" src="https://user-images.githubusercontent.com/1215767/34348383-9e7ed492-ea4d-11e7-910c-03b39d52f496.png" /> Firefox|
+| :--------: | :--------: | :--------: | :--------: | :--------: |
+| Yes      | 9+     |Yes|Yes |Yes|
 
 
 ![](https://i.imgur.com/OVgYIzs.jpg)
