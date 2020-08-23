@@ -3,9 +3,9 @@
 > 2017년도 디자인 작업물 입니다. 😳👩‍🎨
 
 - `👗 FashionIllustrator`  
-  - 1. 에이셉 라키를 오마주로 표현해본 그림들 입니다.  
+  - 에이셉 라키를 오마주로 표현해본 그림들 입니다.  
     🔗 Link: https://github.com/wowww/portfolio/blob/master/pdf/FashionIllustrator/Illustrator(1).pdf  
-  - 2. 여성스러움, 레드 등의 컨셉을 잡아서 만든 패션 일러스트레이터 작업물입니다.  
+  - 여성스러움, 레드 등의 컨셉을 잡아서 만든 패션 일러스트레이터 작업물입니다.  
     🔗 Link: https://github.com/wowww/portfolio/blob/master/pdf/FashionIllustrator/Illustrator(2).pdf   
     <br/>
 
